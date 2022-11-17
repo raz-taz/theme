@@ -1,0 +1,21 @@
+{
+  "name": "theme",
+  "displayName": "best programming theme",
+  "description": "for code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Best theme by raz_taz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Best theme by raz_taz-color-theme.json"
+      }
+    ]
+  }
+}
